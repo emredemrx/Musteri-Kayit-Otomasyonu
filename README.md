@@ -1,5 +1,5 @@
 # Musteri-Kayit-Otomasyonu
-Harfiyat Şirketi için tasarladığım ve yapımına devam ettiğim Müşteri takip otomasyonu
+Üniversite Dönemimde bir Harfiyat Şirketi için tasarladığım Müşteri takip otomasyonu. GitHub profilimde paylaşmak amaci ile tekrar düzenlemeye başladım. Müşteri yönetimi sayfasını aktif hale getirdim. Projede bulunan diğer sayfaları düzenlemeleri bittikçe güncelleme olarak atacağım.
 ### Bulunan ve Eklenecek sayfalar
 * Müsteri Yönetimi (Ekleme,Sileme,Güncelleme,Arama) //Aktif
 * Araç Yönetimi (Araç Ekleme Silme, Araçların Saatlik Ücretlerini Düzenleme vb.)
